@@ -8,3 +8,5 @@ Les cas en cours ou fait cet année
 * FFBSQ
 * CRAB
 * EQUIDIA
+
+Pour en savoir plus allez sur [Google](http://www.google.fr)
